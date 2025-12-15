@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Catálogo</title>
+</head>
+<body>
+<h1>📚 Catálogo de Projetos</h1>
+
+<table border="1">
+<tr>
+    <th>Nome</th>
+    <th>Template</th>
+    <th>Responsável</th>
+    <th>Data</th>
+</tr>
+
+{% for p in projects %}
+<tr>
+    <td>{{ p.name }}</td>
+    <td>{{ p.template }}</td>
+    <td>{{ p.owner }}</td>
+    <td>{{ p.date }}</td>
+</tr>
+{% endfor %}
+</table>
+
+<a href="/">⬅ Voltar</a>
+</body>
+</html>

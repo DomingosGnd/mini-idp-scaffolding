@@ -1,0 +1,13 @@
+```gitignore
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Projetos gerados
+generated/
+*.zip
+
+# Sistema
+.DS_Store
+Thumbs.db
