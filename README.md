@@ -19,15 +19,14 @@ A **Mini IDP** resolve este problema ao fornecer um **gerador automático de pro
 
 ---
 
-## Funcionalidades Principais
+✨ Funcionalidades Principais
 
 ✔ Geração automática de projetos
 ✔ Templates reutilizáveis
 ✔ Interface Web simples e intuitiva
 ✔ Catálogo de projetos criados
-✔ Download do projeto em formato **ZIP**
+✔ Download do projeto em formato ZIP
 ✔ Estrutura padronizada pronta para uso
-
 ---
 
 ## Templates Disponíveis
