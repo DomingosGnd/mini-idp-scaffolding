@@ -148,10 +148,6 @@ Este projeto foi desenvolvido como projeto  **PLATAFORMA DE DESENVOLVIMENTO DE S
 
 ---
 
-## 👨‍💻 Autor
-
-**Embar**
-Estudante universitário – Área de Computação
 
 ---
 
