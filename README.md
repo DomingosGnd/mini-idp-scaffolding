@@ -1,4 +1,4 @@
-# 🚀 Mini IDP – Scaffolding Platform
+# Mini IDP – Scaffolding Platform
 
 > **Mini Internal Developer Platform (IDP)** para geração automática de projetos de software a partir de templates padronizados.
 
@@ -6,7 +6,7 @@ Este projeto foi desenvolvido no âmbito de uma **cadeira universitária**, com 
 
 ---
 
-## 📌 Motivação
+## Motivação
 
 Em muitos contextos académicos e profissionais, a criação de novos projetos é feita através de **cópia manual de repositórios**, o que frequentemente resulta em:
 
@@ -19,7 +19,7 @@ A **Mini IDP** resolve este problema ao fornecer um **gerador automático de pro
 
 ---
 
-## ✨ Funcionalidades Principais
+## Funcionalidades Principais
 
 ✔ Geração automática de projetos
 ✔ Templates reutilizáveis
@@ -30,7 +30,7 @@ A **Mini IDP** resolve este problema ao fornecer um **gerador automático de pro
 
 ---
 
-## 🧩 Templates Disponíveis
+## Templates Disponíveis
 
 ### 🟦 API Python
 
@@ -127,9 +127,9 @@ http://127.0.0.1:5000
 
 ---
 
-## 🎓 Contexto Académico
+## 🎓 Contexto do Projecto
 
-Este projeto foi desenvolvido como parte de uma **cadeira universitária**, com foco em:
+Este projeto foi desenvolvidono âmbito de **Pltaforma de Desenvolvimento de Software**, com foco em:
 
 * Internal Developer Platforms (IDP)
 * Automação do desenvolvimento
@@ -151,7 +151,7 @@ Este projeto foi desenvolvido como parte de uma **cadeira universitária**, com 
 
 ---
 
-## ⭐ Conclusão
+## Conclusão
 
 A **Mini IDP – Scaffolding Platform** demonstra que é possível aplicar conceitos modernos de plataformas internas de desenvolvimento mesmo em contextos académicos, promovendo **produtividade**, **qualidade** e **padronização** no desenvolvimento de software.
 
